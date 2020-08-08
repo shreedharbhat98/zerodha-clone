@@ -18,4 +18,5 @@ Install dependencies :
 * `font-awesome`
 * `react-router-dom`
 
-Run command `npm start`
+Run command 
+* `npm start`
